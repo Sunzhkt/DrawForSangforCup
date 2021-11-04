@@ -1,0 +1,4 @@
+﻿  SangforCup.cpp
+c:\users\hp\desktop\孙之桓\1.工作文件汇总\十一月\1\sangforcup\sangforcup\sangforcup.cpp(27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\hp\desktop\孙之桓\1.工作文件汇总\十一月\1\sangforcup\sangforcup\sangforcup.cpp(72): warning C4101: “a”: 未引用的局部变量
+  SangforCup.vcxproj -> C:\Users\HP\Desktop\孙之桓\1.工作文件汇总\十一月\1\SangforCup\Debug\SangforCup.exe
